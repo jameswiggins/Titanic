@@ -1,3 +1,7 @@
 # Don't track content of these folders
 #1. virtual environment
 ENVNAME
+
+2. jupyter notebook meta files
+.ipynb_checkpoints
+.DS_Store
