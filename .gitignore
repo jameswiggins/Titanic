@@ -4,4 +4,4 @@ ENVNAME
 
 2. jupyter notebook meta files
 .ipynb_checkpoints
-.DS_Store
+**/.DS_Store
